@@ -38,6 +38,12 @@ input{
 input:focus{
     border: none;
 }
+iframe{
+    width: 100%;
+    height: 100%;
+    border: none;
+    scrollbar-width: 0px;
+}
 #viewpoint {
   width: var(--screen-width);
   height: var(--screen-height);
