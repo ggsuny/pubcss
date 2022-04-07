@@ -43,6 +43,8 @@ iframe{
     height: 100%;
     border: none;
     scrollbar-width: 0px;
+    background-color:transparent;
+    overflow:hidden;  
 }
 #viewpoint {
   width: var(--screen-width);
@@ -59,7 +61,7 @@ iframe{
 #status{
     width: 100%;
     height: 44px;
-    background-color: rgb(255, 255, 255);
+    background-color:transparent;
     border-radius:var(--screen-border-radius) ;
     background-image: url(img/StatusBar.png);
 }
