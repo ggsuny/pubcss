@@ -43,7 +43,7 @@ iframe{
     height: 100%;
     border: none;
     scrollbar-width: 0px;
-    background-color:transparent;
+    background-color:#ffffff;
     overflow:hidden;  
 }
 #viewpoint {
